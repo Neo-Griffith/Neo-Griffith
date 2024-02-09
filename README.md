@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Neo-Griffith , French IT Student to become SysAdmin , i also learn Web-development by myself 
+- 👋 Hi, I’m @Neo-Griffith , a French SysAdmin-Dev/ops , i also learn Web-development by myself 
 - 👀 I’m interested in It , new-technology , space , video-games , music , history and mainy other topics 
-- 🌱 I’m currently learning SysAdmin , Linux , Web-Development (HTMl , CSS , Javscript) for the time 
-- 💞️ I’m looking to collaborate on Web-Development project or videos games dev (beginner)
+- 🌱 I’m currently learning SysAdmin , Linux , Web-Development (HTMl , CSS , Javscript) , k8S , Terraform ...
+- 💞️ I’m looking to collaborate on Web-Development project or videos games dev (beginner) 
 - 📫 How to reach me : corentinleriche49@gmail.com or NeoGriffith in GitHub 
 
 <!---
